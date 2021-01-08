@@ -5,6 +5,7 @@
 
 - I am currently focused on penetration testing with python and using discord.js to work with my Discord bot.
 - 2021 Goals: Add more functions to the Discord Bot
+- A lot of my repositories are private, so expect to see some repositories, not a lot.
 
 <br />
 
