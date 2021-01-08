@@ -3,8 +3,8 @@
 
 ## I'm just a random guy who does coding.
 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- I am currently focused on penetration testing with python and using discord.js to work with my Discord bot.
+- 🥅 2021 Goals: Add more functions to the Discord Bot
 
 <br />
 
