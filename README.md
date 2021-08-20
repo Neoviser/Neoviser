@@ -1,7 +1,7 @@
 ### Hi there, I'm Daniel - aka OtakuNeo 👋
 
 
-## I'm just a random guy who does coding.
+## I'm an aussie guy who does coding.
 
 - I am currently focused on penetration testing with python and using discord.js to work with my Discord bot.
 - 2021 Goals: Add more functions to the Discord Bot
