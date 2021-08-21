@@ -6,6 +6,10 @@
 - Please note that I am not a professional at coding yet. I only just started doing this mainstream for around 6+ months.
 - I mostly work on my own repos, I will only work on other repos if needed.
 
+#### Contacts:
+**Email**: otakuneobusiness@gmail.com <br/>
+**Discord**: Neo#0442
+
 #### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
