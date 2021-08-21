@@ -1,6 +1,6 @@
 ### G'day! Name's Daniel - aka OtakuNeo
 ---
-
+![code](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript) ![OS](https://img.shields.io/badge/OS-Kali%20Linux%20%26%20Windows-yellow?style=flat-square&logo=linux) ![Cloud](https://img.shields.io/badge/Cloud-Heroku-purple?style=flat-square&logo=heroku) ![Shell](https://img.shields.io/badge/Shell-Bash-green?style=flat-square&logo=gnubash) ![Editor](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visualstudiocode)
 ## 🇦🇺Developer
 
 - Please note that I am not a professional at coding yet. I only just started doing this mainstream for around 6+ months.
