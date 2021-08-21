@@ -1,12 +1,12 @@
-### G'day! Name's Daniel - aka OtakuNeo
----
-![code](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript) ![OS](https://img.shields.io/badge/OS-Kali%20Linux%20%26%20Windows-yellow?style=flat-square&logo=linux) ![Cloud](https://img.shields.io/badge/Cloud-Heroku-purple?style=flat-square&logo=heroku) ![Shell](https://img.shields.io/badge/Shell-Bash-green?style=flat-square&logo=gnubash) ![Editor](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visualstudiocode)
-## 🇦🇺Developer
+# G'day! Name's Daniel - aka OtakuNeo
 
+![code](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript) ![OS](https://img.shields.io/badge/OS-Kali%20Linux%20%26%20Windows-yellow?style=flat-square&logo=linux) ![Cloud](https://img.shields.io/badge/Cloud-Heroku-purple?style=flat-square&logo=heroku) ![Shell](https://img.shields.io/badge/Shell-Bash-green?style=flat-square&logo=gnubash) ![Editor](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visualstudiocode)
+****
+### 🇦🇺Developer
 - Please note that I am not a professional at coding yet. I only just started doing this mainstream for around 6+ months.
 - I mostly work on my own repos, I will only work on other repos if needed.
 
-### Languages and Tools:
+#### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
