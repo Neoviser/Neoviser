@@ -2,11 +2,10 @@
 
 ![code](https://img.shields.io/badge/Code-TypeScript-blue?style=flat-square&logo=typescript) ![OS](https://img.shields.io/badge/OS-Kali%20Linux-blue?style=flat-square&logo=kalilinux) ![Cloud](https://img.shields.io/badge/Cloud-Heroku-purple?style=flat-square&logo=heroku) ![Shell](https://img.shields.io/badge/Shell-Bash-green?style=flat-square&logo=gnubash) ![Editor](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visualstudiocode)
 ****
-## Australian Developer
+## Australian Developer ![Commits](https://img.shields.io/badge/Verified-Commits%20With%20Signature-lightgreen?style=flat-square&logo=adguard)
 - Please note that I am not a professional at coding yet. I only just started doing this mainstream for around 6+ months.
 - I mostly work on my own repos, I will only work on other repos if needed.
 
-![Commits](https://img.shields.io/badge/Verified-Commits%20With%20Signature-lightgreen?style=flat-square&logo=adguard)
 
 #### Contacts:
 **Email**: otakuneobusiness@gmail.com <br/>
