@@ -1,4 +1,4 @@
-# G'day! Name's Daniel - aka OtakuNeo
+# G'day! Name's Daniel - aka Neoviser
 
 ![code](https://img.shields.io/badge/Code-TypeScript-blue?style=flat-square&logo=typescript) ![OS](https://img.shields.io/badge/OS-Kali%20Linux-blue?style=flat-square&logo=kalilinux) ![Cloud](https://img.shields.io/badge/VPS-Amazon%20Web%20Services-orange?style=flat-square&logo=amazonaws) ![Shell](https://img.shields.io/badge/Shell-Bash-green?style=flat-square&logo=gnubash) ![Editor](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-white?style=flat-square&logo=visualstudiocode)
 ****
