@@ -8,7 +8,7 @@
 
 
 #### Contacts:
-**Email**: otakuneobusiness@gmail.com <br/>
+**Email**: otaku-daniel@pm.me <br/>
 **Discord**: Neo#0442
 
 #### Languages and Tools:
@@ -26,8 +26,6 @@
 <br />
 
 ---
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OtakuNeo-Dev&show_icons=true&theme=dark)
 
 
 
