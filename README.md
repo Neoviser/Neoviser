@@ -3,8 +3,8 @@
 ![code](https://img.shields.io/badge/Code-TypeScript-blue?style=flat-square&logo=typescript) ![OS](https://img.shields.io/badge/OS-Kali%20Linux-blue?style=flat-square&logo=kalilinux) ![Cloud](https://img.shields.io/badge/VPS-Amazon%20Web%20Services-orange?style=flat-square&logo=amazonaws) ![Shell](https://img.shields.io/badge/Shell-Bash-green?style=flat-square&logo=gnubash) ![Editor](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-white?style=flat-square&logo=visualstudiocode)
 ****
 ## Australian Developer ![Commits](https://img.shields.io/badge/Verified-Commits%20With%20Signature-lightgreen?style=flat-square&logo=adguard)
-- Full-time working Node.js Developer, I work a lot with TypeScript.
-- I mostly work on my own repos, I will only work on other repos if needed.
+- Pretty much a beginner, I do pretty well in TS, but my planned field is Cybersecurity.
+- I do stuff here if I want to start new projects; motivation is key though..
 
 
 #### Contacts:
