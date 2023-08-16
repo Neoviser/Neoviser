@@ -1,6 +1,6 @@
 # G'day! Name's Daniel - aka Neoviser
 
-![code](https://img.shields.io/badge/Code-TypeScript-blue?style=flat-square&logo=typescript) ![OS](https://img.shields.io/badge/OS-Kali%20Linux-blue?style=flat-square&logo=kalilinux) ![Cloud](https://img.shields.io/badge/VPS-Amazon%20Web%20Services-orange?style=flat-square&logo=amazonaws) ![Shell](https://img.shields.io/badge/Shell-Bash-green?style=flat-square&logo=gnubash) ![Editor](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-white?style=flat-square&logo=visualstudiocode)
+![code](https://img.shields.io/badge/Code-TypeScript-blue?style=flat-square&logo=typescript) ![OS](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=windows) ![Cloud](https://img.shields.io/badge/VPS-Amazon%20Web%20Services-orange?style=flat-square&logo=amazonaws) ![Shell](https://img.shields.io/badge/Shell-Powershell-blue?style=flat-square&logo=powershell) ![Editor](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-white?style=flat-square&logo=visualstudiocode)
 ****
 ## Australian Developer ![Commits](https://img.shields.io/badge/Verified-Commits%20With%20Signature-lightgreen?style=flat-square&logo=adguard)
 - A beginner, I code in Typescript & Javascript. I plan to learn Python.
