@@ -7,7 +7,7 @@
 
 ###
 
-<h3 align="center">Cybersecurity | Computer Science</h3>
+<h2 align="center">Cybersecurity | Computer Science</h2>
 
 ###
 
